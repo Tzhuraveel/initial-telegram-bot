@@ -1,4 +1,4 @@
-## ONBOARDING TELEGRAM BOT
+## TELEGRAM BOT
 
 
 ## Installation
