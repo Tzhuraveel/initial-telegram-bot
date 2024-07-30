@@ -1,0 +1,4 @@
+node_modules
+dist
+environments/.env
+environments/.env-prod
